@@ -1,0 +1,1 @@
+from listings.models.listings_model import Listings

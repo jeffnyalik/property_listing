@@ -1,0 +1,1 @@
+from contacts.models.contact_model import Contacts
